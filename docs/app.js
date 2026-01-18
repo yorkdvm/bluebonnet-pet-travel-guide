@@ -1,3 +1,13 @@
+function generateSlug(text) {
+    return text
+        .toLowerCase()
+        .replace(/[^\w\s-]/g, '')
+        .replace(/\s+/g, '-')
+        .replace(/-+/g, '-')
+        .substring(0, 60)
+        .replace(/-$/, '');
+}
+
 function convertToCollapsible(container) {
     const elements = Array.from(container.children);
     const result = document.createDocumentFragment();
@@ -6,6 +16,7 @@ function convertToCollapsible(container) {
     const stack = [];
     let introSection = null;
     let inIntro = true;
+    const usedIds = new Set();
 
     function getCurrentContent() {
         if (stack.length === 0) return null;
@@ -23,6 +34,16 @@ function convertToCollapsible(container) {
                 result.appendChild(closed.details);
             }
         }
+    }
+
+    function getUniqueId(baseId) {
+        let id = baseId;
+        let counter = 1;
+        while (usedIds.has(id)) {
+            id = `${baseId}-${counter++}`;
+        }
+        usedIds.add(id);
+        return id;
     }
 
     let pendingAnchorId = null;
@@ -55,15 +76,22 @@ function convertToCollapsible(container) {
             const details = document.createElement('details');
             details.className = `level-${level}`;
 
-            // Apply pending anchor ID to the details element
+            // Apply pending anchor ID or generate one from heading text
             if (pendingAnchorId) {
-                details.id = pendingAnchorId;
+                details.id = getUniqueId(pendingAnchorId);
                 pendingAnchorId = null;
+            } else {
+                details.id = getUniqueId(generateSlug(el.textContent));
             }
 
             const summary = document.createElement('summary');
             summary.textContent = el.textContent;
             details.appendChild(summary);
+
+            // Update URL when clicking summary
+            summary.addEventListener('click', () => {
+                history.replaceState(null, '', '#' + details.id);
+            });
 
             const content = document.createElement('div');
             content.className = 'section-content';
