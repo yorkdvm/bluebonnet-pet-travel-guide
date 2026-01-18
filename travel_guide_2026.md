@@ -534,14 +534,18 @@ Once endorsed, we will:
 
 **Applies if:** Dog has NOT been in any [high-risk country](https://www.cdc.gov/importation/dogs/high-risk-countries.html) in last 6 months
 
-#### *Requirements:*
+---
+
+*Requirements:*
 
 ✅ 6+ months old  
 ✅ Microchip is ISO-compliant with 15 digits (universal scanner)  
 ✅ Appears healthy  
 ✅ [CDC Dog Import Form](https://www.cdc.gov/importation/dogs/dog-import-form-instructions.html) completed online (for dogs only)
 
-#### *CDC Dog Import Form:*
+---
+
+*CDC Dog Import Form:*
 
 * Complete at least 1 day before arrival (can be done further in advance)
 
@@ -553,7 +557,9 @@ Once endorsed, we will:
 
 **Entry:** Any US airport, seaport, or land border
 
-#### *Additional notes:*
+---
+
+*Additional notes:*
 
 * **Rabies vaccination is not required by CDC** (but recommended and often required by airlines and most US states)
 
@@ -573,23 +579,31 @@ Once endorsed, we will:
 
 **Applies if:** You got CURV before departure (see Section 2, Step 3\)
 
-#### *Why This Is Easy:*
+---
+
+*Why This Is Easy:*
 
 ✅ Enter at any port  
 ✅ No facility, no titer test, no quarantine  
 ✅ Minimal cost
 
-#### *Requirements:*
+---
+
+*Requirements:*
 
 All requirements from Section 3A apply, PLUS:
 
 **Document 2:** CURV (Certification of US-Issued Rabies Vaccination) obtained before you left the US and the current US rabies vaccine has not yet expired (foreign vaccinations don’t count).
 
-#### *Arrival Process:*
+---
+
+*Arrival Process:*
 
 Present documents at customs → Clear normally → Go home
 
-#### *What If?*
+---
+
+*What If?*
 
 **Old export certificate instead of CURV?** 
 - Valid if issued on/before July 31, 2025 AND includes dog’s age, microchip, and US rabies vaccination info 
@@ -611,7 +625,9 @@ Present documents at customs → Clear normally → Go home
 
 **This is expensive/complex. Avoid by getting a CURV before departure (Section 2, Step 3).**
 
-#### *Process Summary:*
+---
+
+*Process Summary:*
 
 * **MUST Start 60-90 days before US entry**
 
@@ -629,31 +645,29 @@ Present documents at customs → Clear normally → Go home
 
 * **Costs With 28-day Quarantine:** $6,000-7,000+
 
-#### *Entry Points (ONLY These 6):*
+---
 
-* **New York JFK** 
-- The ARK Pet Oasis
+*Entry Points (ONLY These 6):*
 
-* **Philadelphia PHL** 
-- Gateway Animal Care Center
+* **New York JFK** - The ARK Pet Oasis
 
-* **Washington IAD** 
-- Pender Pet Retreat
+* **Philadelphia PHL** - Gateway Animal Care Center
 
-* **Atlanta ATL** 
-- Dandie Scottie Kennel
+* **Washington IAD** - Pender Pet Retreat
 
-* **Miami MIA** 
-- Pet Limo
+* **Atlanta ATL** - Dandie Scottie Kennel
 
-* **Los Angeles LAX** 
-- Kennel Club LAX or Rue’s Kennels
+* **Miami MIA** - Pet Limo
+
+* **Los Angeles LAX** - Kennel Club LAX or Rue’s Kennels
 
 **No land borders. No other airports. No domestic connections until released.**
 
 For complete details on this process: [CDC Foreign-Vaccinated Dogs Guide](https://www.cdc.gov/importation/dogs/foreign-vaccinated-high-risk-countries.html)
 
-#### *Common Mistakes:*
+---
+
+*Common Mistakes:*
 
 * No facility reservation \= denied entry, dog returned
 
@@ -669,13 +683,16 @@ For complete details on this process: [CDC Foreign-Vaccinated Dogs Guide](https:
 
 ### **Section 3D: Importing Cats (Very Simple)**
 
-#### *CDC Requirements:*
+
+*CDC Requirements:*
 
 ✅ Cat appears healthy
 
 **That’s it\!** No forms, no vaccinations required by CDC for cats. Entry at any point is acceptable.
 
-#### *However:*
+---
+
+*However:*
 
 * Airlines usually require health certificate
 
@@ -736,7 +753,9 @@ For USDA endorsement of International Health Certificates or CURV forms, any rab
 
 Airlines may have requirements that are more strict than destination countries. It’s **your responsibility** to verify and inform us of any additional requirements.
 
-### **Key Airline Requirements:**
+---
+
+**Key Airline Requirements:**
 
 **General:** 
 - Confirm airline accepts pets and method (cabin, checked as excess baggage, or cargo) 
@@ -764,7 +783,8 @@ Airlines may have requirements that are more strict than destination countries. 
 - Must be airline-approved 
 - Verify requirements with your specific airline
 
-**Important:** Airlines may have requirements more strict than the destination country. Always check with your airline and inform us of any additional needs.
+**Important:**
+Airlines may have requirements more strict than the destination country. Always check with your airline and inform us of any additional needs.
 
 ---
 
