@@ -1,8 +1,4 @@
-# **BLUEBONNET INTERNATIONAL EXPORT & IMPORT**
-
-## **PET TRAVEL GUIDE 2026**
-
----
+# **INTERNATIONAL PET TRAVEL GUIDE 2026**
 
 ## **Who This Guide Is For**
 
@@ -78,17 +74,21 @@ USDA’s online system where accredited veterinarians submit and track health ce
 
 Countries that **accept digital USDA endorsements**. We can email you the endorsed certificate once approved. No physical shipping required.
 
-**How to identify:** When you search for your destination country on the [USDA APHIS website](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export), a **green banner** will be displayed at the top of the country page if digital endorsement is accepted. \- **Examples:** Most South American countries \- **Cost advantage:** No shipping fees
+**How to identify:** When you search for your destination country on the [USDA APHIS website](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export), a **green banner** will be displayed at the top of the country page if digital endorsement is accepted. 
+- **Examples:** Most South American countries 
+- **Cost advantage:** No shipping fees
 
 ### **Orange Banner Country**
 
 Countries that **require physical USDA endorsement with embossed seal**. We must overnight ship your health certificate once approved.
 
-**How to identify:** When you search for your destination country on the [USDA APHIS website](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export), an **orange banner** will be displayed at the top of the country page if physical endorsement is required. \- **Examples:** All EU countries, United Kingdom \- **Additional cost:** $75 overnight shipping fee
+**How to identify:** When you search for your destination country on the [USDA APHIS website](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export), an **orange banner** will be displayed at the top of the country page if physical endorsement is required. 
+- **Examples:** All EU countries, United Kingdom 
+- **Additional cost:** $75 overnight shipping fee
 
-### [**High-Risk Rabies Country**](https://www.cdc.gov/importation/dogs/high-risk-countries.html)
+### **High-Risk Rabies Country**
 
-Country on CDC’s rabies high-risk list. If your destination is NOT on the list, it’s considered low-risk.
+Country on CDC’s rabies [high-risk list](https://www.cdc.gov/importation/dogs/high-risk-countries.html). If your destination is NOT on the list, it’s considered low-risk.
 
 ### **Primary (Initial) Rabies Vaccination**
 
@@ -210,15 +210,20 @@ Airlines may have requirements that are more strict than destination countries (
 
 ## **Section 2: Exporting from the US**
 
-Our hospital is USDA-accredited and can complete all necessary export documentation for both dogs and cats. We submit all IHCs and CURVs electronically to [VEHCS](https://vehcs.aphis.usda.gov/) for endorsement by the USDA.
+Our hospital is USDA-accredited and can complete all necessary export documentation for both dogs and cats. We submit all IHCs and CURVs electronically to VEHCS for endorsement by the USDA.
 
 **Timeline:** Start 2-6+ months before departure depending on destination
 
-### **Important Notes:**
+---
+
+**Important Notes:**
 
 **Look Up Your Destination Requirements:** Check [USDA APHIS Pet Travel Guide](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export) (step 2\) for your destination country requirements.
 
-The export process is the same for both dogs and cats, with a few key differences: \- **CURV:** Dogs only (needed for easy US re-entry from high-risk countries); cats don’t need CURV \- Vaccines for dogs and cats differ (see Step 3\) \- Some country requirements may differ for dogs vs cats
+The export process is the same for both dogs and cats, with a few key differences: 
+- **CURV:** Dogs only (needed for easy US re-entry from high-risk countries); cats don’t need CURV 
+- Vaccines for dogs and cats differ (see Step 3\) 
+- Some country requirements may differ for dogs vs cats
 
 ---
 
@@ -226,11 +231,15 @@ The export process is the same for both dogs and cats, with a few key difference
 
 #### *Green Banner Country 🟢*
 
-**Digital USDA endorsement accepted.** We can email you the endorsed certificate once approved. No physical shipping needed. \- **Examples:** Most South American countries, some Asian countries \- **Cost savings:** No shipping fee
+**Digital USDA endorsement accepted.** We can email you the endorsed certificate once approved. No physical shipping needed. 
+- **Examples:** Most South American countries, some Asian countries 
+- **Cost savings:** No shipping fee
 
 #### *Orange Banner Country 🟠*
 
-**Digital endorsement NOT accepted.** We must overnight ship your embossed USDA-endorsed health certificate once approved. \- **Examples:** All European countries, United Kingdom \- **Additional cost:** $75 overnight shipping fee
+**Digital endorsement NOT accepted.** We must overnight ship your embossed USDA-endorsed health certificate once approved. 
+- **Examples:** All European countries, United Kingdom 
+- **Additional cost:** $75 overnight shipping fee
 
 ---
 
@@ -242,7 +251,19 @@ The export process is the same for both dogs and cats, with a few key difference
 
 #### *Initial Travel Information Required:*
 
-Before we can begin, you must provide for each pet: \- Destination country/countries \- Estimated travel dates \- Number and type (dog vs cat) of pets traveling \- Whether your pet will return to the US or if this is a permanent move \- **Rabies vaccine history and certificates** (all rabies vaccines ever given, starting with *first primary vaccine*) \- **proper certificates from ALL prior veterinary hospitals are essential** \- Microchip information and documentation (such as when implanted) \- Prior veterinary record location(s) with complete vaccine history \- Prior international travel records and/or rabies titer testing \- How you are traveling (car, air, ship) \- Name of airline, once known and if applicable \- Whether your pet will be in cargo, cabin, or excess baggage (if by plane once known)
+Before we can begin, you must provide for each pet: 
+- Destination country/countries 
+- Estimated travel dates 
+- Number and type (dog vs cat) of pets traveling 
+- Whether your pet will return to the US or if this is a permanent move 
+- **Rabies vaccine history and certificates** (all rabies vaccines ever given, starting with *first primary vaccine*) 
+- **proper certificates from ALL prior veterinary hospitals are essential** 
+- Microchip information and documentation (such as when implanted) 
+- Prior veterinary record location(s) with complete vaccine history 
+- Prior international travel records and/or rabies titer testing 
+- How you are traveling (car, air, ship) 
+- Name of airline, once known and if applicable 
+- Whether your pet will be in cargo, cabin, or excess baggage (if by plane once known)
 
 #### *Research Fee:*
 
@@ -252,7 +273,8 @@ Before we can begin, you must provide for each pet: \- Destination country/count
 
 * **$0** if you’ve previously done a health certificate with us for this same country and pet
 
-* **Non-refundable:** Must be paid for research to begin \- paid via phone, text, or email
+* **Non-refundable:** Must be paid for research to begin 
+- paid via phone, text, or email
 
 * Must be paid before scheduling your consultation
 
@@ -312,7 +334,8 @@ Before we can begin, you must provide for each pet: \- Destination country/count
 
 * The IHC visit cannot occur if requirements are not met in the appropriate time period
 
-* **Urgent Processing Fee: $100** \- This fee covers the extra staff time needed to ensure accurate documentation under time constraints when all research, record review, planning, and document preparation must occur same-day
+* **Urgent Processing Fee: $100** 
+- This fee covers the extra staff time needed to ensure accurate documentation under time constraints when all research, record review, planning, and document preparation must occur same-day
 
 ---
 
@@ -329,27 +352,47 @@ Before we can begin, you must provide for each pet: \- Destination country/count
 #### *Rabies Vaccination (if required by country and not already current)*
 
 **What’s a “Primary” Rabies Vaccination?**  
-Valid **1 year only**, even if vaccine says 3 years. A primary vaccination is: \- First vaccination ever \- First vaccine after microchip placement \- First vaccine after any lapse in vaccination (any period, even one day, when rabies vaccination expired before next booster was given) \- First US vaccination for foreign-vaccinated dog
+Valid **1 year only**, even if vaccine says 3 years. A primary vaccination is: 
+- First vaccination ever 
+- First vaccine after microchip placement 
+- First vaccine after any lapse in vaccination (any period, even one day, when rabies vaccination expired before next booster was given) 
+- First US vaccination for foreign-vaccinated dog
 
-**Special Note on Timing:** \- **Most European countries/UK:** Minimum 21-day wait after primary rabies vaccination required
+**Special Note on Timing:** 
+- **Most European countries/UK:** Minimum 21-day wait after primary rabies vaccination required
 
-**Costs:** \- **Dogs:** $45 \- **Cats:** $55 for 1-year vaccine or $98 for 3-year vaccine (if appropriate) \- We use Purevax, which is a non-adjuvanted vaccine that reduces risk of injection-site reactions and tumors in cats
+**Costs:** 
+- **Dogs:** $45 
+- **Cats:** $55 for 1-year vaccine or $98 for 3-year vaccine (if appropriate) 
+- We use Purevax, which is a non-adjuvanted vaccine that reduces risk of injection-site reactions and tumors in cats
 
 #### *Additional Vaccines (if required by country and not already current)*
 
 These vaccines are also generally recommended based on individual pet’s lifestyle/exposure:
 
-**Dogs:** \- DHPP (distemper, hepatitis, parvovirus, parainfluenza), Bordetella, Lepto, etc. \- **Cost:** $45 each, $60 if DHPP \+ Lepto combo
+**Dogs:** 
+- DHPP (distemper, hepatitis, parvovirus, parainfluenza), Bordetella, Lepto, etc. 
+- **Cost:** $45 each, $60 if DHPP \+ Lepto combo
 
-**Cats:** \- FVRCP (feline viral rhinotracheitis, calicivirus, panleukopenia), FeLV (feline leukemia) \- **Cost:** $55 each
+**Cats:** 
+- FVRCP (feline viral rhinotracheitis, calicivirus, panleukopenia), FeLV (feline leukemia) 
+- **Cost:** $55 each
 
 #### *Rabies Titer Blood Draw (if required by country and not already performed)*
 
-**When it’s required:** \- **Required by:** Australia, New Zealand, Japan, South Korea, China, Hawaii (and others) \- **NOT required by:** Most South American and European countries
+**When it’s required:** 
+- **Required by:** Australia, New Zealand, Japan, South Korea, China, Hawaii (and others) 
+- **NOT required by:** Most South American and European countries
 
-**Process & Timeline:** \- May be done at consult if appropriate timing allows, or scheduled later if rabies vaccination needs to occur first \- Must allow proper waiting periods before blood draw \- **Cost:** $370 (includes overnight shipping) to K-State or Auburn University (both OIE approved labs) \- **Timeline:** Takes 3-6 weeks after test is performed
+**Process & Timeline:** 
+- May be done at consult if appropriate timing allows, or scheduled later if rabies vaccination needs to occur first 
+- Must allow proper waiting periods before blood draw 
+- **Cost:** $370 (includes overnight shipping) to K-State or Auburn University (both OIE approved labs) 
+- **Timeline:** Takes 3-6 weeks after test is performed
 
-**Country-Specific Rabies Titer Timelines:** \- **Australia, New Zealand, Japan:** 6-month timeline required (rabies titer testing, waiting periods, import permits, etc.) \- **Other countries requiring rabies titer:** Shorter timeline possible, but will vary based on requirements of that country. Most will just need a valid rabies titer test result at the time of export, but we need to verify specific requirements for your destination
+**Country-Specific Rabies Titer Timelines:** 
+- **Australia, New Zealand, Japan:** 6-month timeline required (rabies titer testing, waiting periods, import permits, etc.) 
+- **Other countries requiring rabies titer:** Shorter timeline possible, but will vary based on requirements of that country. Most will just need a valid rabies titer test result at the time of export, but we need to verify specific requirements for your destination
 
 ---
 
@@ -366,7 +409,9 @@ These vaccines are also generally recommended based on individual pet’s lifest
 
 #### *Do I need a CURV?*
 
-Check if your destination is a [high-risk rabies country](https://www.cdc.gov/importation/dogs/high-risk-countries.html): \- **YES, get CURV if:** Going to high-risk country AND planning to return to US \- **NO, skip to Step 4 if:** Only going to low-risk countries
+Check if your destination is a [high-risk rabies country](https://www.cdc.gov/importation/dogs/high-risk-countries.html): 
+- **YES, get CURV if:** Going to high-risk country AND planning to return to US 
+- **NO, skip to Step 4 if:** Only going to low-risk countries
 
 #### *What is CURV?*
 
@@ -418,7 +463,13 @@ Check if your destination is a [high-risk rabies country](https://www.cdc.gov/im
 
 **When you book your IHC appointment, we’ll send you a confirmation text with a link to this form.**
 
-This form must be completed **at least 7 days before your health certificate appointment** and finalizes all travel logistics to write your health certificate in a timely manner. It includes: \- Travel dates \- Flight numbers, airline and routing, including port of embarkation and other layover locations \- Cargo vs. in-cabin confirmation \- Traveler and pet information, including origin and destination addresses and contact information \- Third party information helping with travel, if needed \- Confirmation that you have verified airline requirements
+This form must be completed **at least 7 days before your health certificate appointment** and finalizes all travel logistics to write your health certificate in a timely manner. It includes: 
+- Travel dates 
+- Flight numbers, airline and routing, including port of embarkation and other layover locations 
+- Cargo vs. in-cabin confirmation 
+- Traveler and pet information, including origin and destination addresses and contact information 
+- Third party information helping with travel, if needed 
+- Confirmation that you have verified airline requirements
 
 **⚠️ If this form is not completed 48 hours before your appointment, your appointment may be canceled.**
 
@@ -426,11 +477,21 @@ This form must be completed **at least 7 days before your health certificate app
 
 **At the Visit:** 1\. Complete physical exam and microchip scan/verification ($95) 2\. Verify all vaccinations and treatments are current 3\. Administer internal/external parasite treatment if required ($30-150, varies by size and country) 4\. Complete health certificate for your destination country ($310 base fee) 5\. Give any additional treatments/tests if indicated 6\. Answer final questions 7\. Submit to USDA via VEHCS for endorsement (if required): $125 standard or $175-230 with testing verification
 
-**After the Visit \- USDA Endorsement:** Once we submit your IHC to USDA for endorsement, the timeline for endorsement is **beyond our control**. We do our best to ensure your pet can travel on time, but please be aware: \- Most endorsements are completed within a few days \- **In some cases**, endorsement may occur just prior to your travel date, with your pet barely making the departure window \- **In rare cases** (such as high USDA workload during holiday seasons), endorsement may not occur in time, requiring another visit and additional fees
+**After the Visit 
+- USDA Endorsement:** Once we submit your IHC to USDA for endorsement, the timeline for endorsement is **beyond our control**. We do our best to ensure your pet can travel on time, but please be aware: 
+- Most endorsements are completed within a few days 
+- **In some cases**, endorsement may occur just prior to your travel date, with your pet barely making the departure window 
+- **In rare cases** (such as high USDA workload during holiday seasons), endorsement may not occur in time, requiring another visit and additional fees
 
-Once endorsed, we will: \- **Green banner countries:** Email you the endorsed digital document \- **Orange banner countries:** Overnight ship the embossed physical certificate ($75). At your IHC visit, we’ll discuss where the certificate should be shipped. We recommend shipping to our hospital for pick-up once it arrives, but in some situations, a specific destination address may be needed. Proper shipping location will be discussed if this applies to your IHC.
+Once endorsed, we will: 
+- **Green banner countries:** Email you the endorsed digital document 
+- **Orange banner countries:** Overnight ship the embossed physical certificate ($75). At your IHC visit, we’ll discuss where the certificate should be shipped. We recommend shipping to our hospital for pick-up once it arrives, but in some situations, a specific destination address may be needed. Proper shipping location will be discussed if this applies to your IHC.
 
-**Deposit & Rescheduling:** \- Deposit required when booking: $150 (applied toward IHC visit) \- Rescheduling \>48 hrs notice: Additional $75 deposit required \- Rescheduling \<48 hrs or no-show: Deposit non-refundable; new full fee for rescheduled appointment \- Urgent Processing Fee (if no prior consult): $100
+**Deposit & Rescheduling:** 
+- Deposit required when booking: $150 (applied toward IHC visit) 
+- Rescheduling \>48 hrs notice: Additional $75 deposit required 
+- Rescheduling \<48 hrs or no-show: Deposit non-refundable; new full fee for rescheduled appointment 
+- Urgent Processing Fee (if no prior consult): $100
 
 ---
 
@@ -444,7 +505,8 @@ Once endorsed, we will: \- **Green banner countries:** Email you the endorsed di
 
 * ☐ Most current rabies vaccine certificate (printed \+/- digital)
 
-* ☐ **For DOGS going to high-risk countries:** CURV \- Keep this safe for return trip\!
+* ☐ **For DOGS going to high-risk countries:** CURV 
+- Keep this safe for return trip\!
 
 * ☐ Multiple copies of all documents (digital and/or printed)
 
@@ -529,11 +591,17 @@ Present documents at customs → Clear normally → Go home
 
 #### *What If?*
 
-**Old export certificate instead of CURV?** \- Valid if issued on/before July 31, 2025 AND includes dog’s age, microchip, and US rabies vaccination info \- May cause confusion with airlines \- having CURV is clearer
+**Old export certificate instead of CURV?** 
+- Valid if issued on/before July 31, 2025 AND includes dog’s age, microchip, and US rabies vaccination info 
+- May cause confusion with airlines 
+- having CURV is clearer
 
-**US rabies vaccination expires while abroad?** \- Dog becomes “foreign-vaccinated” → Must follow Section 3C ($2,000-7,000+) \- **Avoid this by getting 3-year booster before extended travel**
+**US rabies vaccination expires while abroad?** 
+- Dog becomes “foreign-vaccinated” → Must follow Section 3C ($2,000-7,000+) 
+- **Avoid this by getting 3-year booster before extended travel**
 
-**Lost CURV?** \- Contact our hospital for replacement copy if CURV done by Bluebonnet
+**Lost CURV?** 
+- Contact our hospital for replacement copy if CURV done by Bluebonnet
 
 ---
 
@@ -563,17 +631,23 @@ Present documents at customs → Clear normally → Go home
 
 #### *Entry Points (ONLY These 6):*
 
-* **New York JFK** \- The ARK Pet Oasis
+* **New York JFK** 
+- The ARK Pet Oasis
 
-* **Philadelphia PHL** \- Gateway Animal Care Center
+* **Philadelphia PHL** 
+- Gateway Animal Care Center
 
-* **Washington IAD** \- Pender Pet Retreat
+* **Washington IAD** 
+- Pender Pet Retreat
 
-* **Atlanta ATL** \- Dandie Scottie Kennel
+* **Atlanta ATL** 
+- Dandie Scottie Kennel
 
-* **Miami MIA** \- Pet Limo
+* **Miami MIA** 
+- Pet Limo
 
-* **Los Angeles LAX** \- Kennel Club LAX or Rue’s Kennels
+* **Los Angeles LAX** 
+- Kennel Club LAX or Rue’s Kennels
 
 **No land borders. No other airports. No domestic connections until released.**
 
@@ -605,7 +679,8 @@ For complete details on this process: [CDC Foreign-Vaccinated Dogs Guide](https:
 
 * Airlines usually require health certificate
 
-* Rabies vaccination strongly recommended \- most US states require it for cats
+* Rabies vaccination strongly recommended 
+- most US states require it for cats
 
 * Check your [destination state requirements](https://www.aphis.usda.gov/pet-travel/take-pet-to-another-state)
 
@@ -663,15 +738,31 @@ Airlines may have requirements that are more strict than destination countries. 
 
 ### **Key Airline Requirements:**
 
-**General:** \- Confirm airline accepts pets and method (cabin, checked as excess baggage, or cargo) \- Book well in advance \- limited pet spaces available \- Provide health certificate at check-in
+**General:** 
+- Confirm airline accepts pets and method (cabin, checked as excess baggage, or cargo) 
+- Book well in advance 
+- limited pet spaces available 
+- Provide health certificate at check-in
 
-**Health Certificate Timing:** \- Most airlines require a health certificate within 10 days of arrival to destination if pet is traveling as excess baggage or cargo \- This requirement MAY vary if pet is in-cabin with you \- Dog and cat requirements may also be different \- verify with your specific airline
+**Health Certificate Timing:** 
+- Most airlines require a health certificate within 10 days of arrival to destination if pet is traveling as excess baggage or cargo 
+- This requirement MAY vary if pet is in-cabin with you 
+- Dog and cat requirements may also be different 
+- verify with your specific airline
 
-**Temperature Restrictions (for excess baggage or cargo pets):** \- Airlines typically only fly when temperatures are **45-85°F at BOTH departure and arrival locations** for pet safety \- Plan travel dates and flight times accordingly to avoid cancellations \- Check weather forecasts for both departure and arrival cities
+**Temperature Restrictions (for excess baggage or cargo pets):** 
+- Airlines typically only fly when temperatures are **45-85°F at BOTH departure and arrival locations** for pet safety 
+- Plan travel dates and flight times accordingly to avoid cancellations 
+- Check weather forecasts for both departure and arrival cities
 
-**Sedation Policy:** \- Airlines won’t fly pets that are medicated and appear sedated in cargo or excess baggage (safety reasons) \- We carefully evaluate each case for anxiety medication if appropriate
+**Sedation Policy:** 
+- Airlines won’t fly pets that are medicated and appear sedated in cargo or excess baggage (safety reasons) 
+- We carefully evaluate each case for anxiety medication if appropriate
 
-**Specific Crate Requirements:** \- Airlines have specific crate size, ventilation, and construction requirements \- Must be airline-approved \- Verify requirements with your specific airline
+**Specific Crate Requirements:** 
+- Airlines have specific crate size, ventilation, and construction requirements 
+- Must be airline-approved 
+- Verify requirements with your specific airline
 
 **Important:** Airlines may have requirements more strict than the destination country. Always check with your airline and inform us of any additional needs.
 
@@ -766,13 +857,23 @@ Airlines may have requirements that are more strict than destination countries. 
 
 ### **Estimated Total Costs by Region**
 
-#### *🟢 South America (Green Banner \- Most Countries)*
+#### *🟢 South America (Green Banner 
+- Most Countries)*
 
 **Minimum Estimated Cost: $675**
 
-*Base requirements:* \- Research Fee: $50-100 \- Consultation: $95 \- IHC \+ Exam: $405 \- USDA Endorsement: $125 \- **Shipping: $0** (digital endorsement accepted)
+*Base requirements:* 
+- Research Fee: $50-100 
+- Consultation: $95 
+- IHC \+ Exam: $405 
+- USDA Endorsement: $125 
+- **Shipping: $0** (digital endorsement accepted)
 
-*Additional costs may include (if required by destination country):* \- Vaccines: $45-150 if needed \- Rabies vaccine if needed: $45 (dogs) or $55-98 (cats) \- Parasite treatment: $30-150 \- CURV for dogs (if high-risk country and returning to US): $435
+*Additional costs may include (if required by destination country):* 
+- Vaccines: $45-150 if needed 
+- Rabies vaccine if needed: $45 (dogs) or $55-98 (cats) 
+- Parasite treatment: $30-150 
+- CURV for dogs (if high-risk country and returning to US): $435
 
 ---
 
@@ -780,9 +881,17 @@ Airlines may have requirements that are more strict than destination countries. 
 
 **Minimum Estimated Cost: $750**
 
-*Base requirements:* \- Research Fee: $50-100 \- Consultation: $95 \- IHC \+ Exam: $405 \- USDA Endorsement: $125 \- **Overnight Shipping: $75** (embossed certificate required)
+*Base requirements:* 
+- Research Fee: $50-100 
+- Consultation: $95 
+- IHC \+ Exam: $405 
+- USDA Endorsement: $125 
+- **Overnight Shipping: $75** (embossed certificate required)
 
-*Additional costs may include (if required by destination country):* \- Primary rabies vaccine (if needed): $45 (dogs) or $55-98 (cats) \- 21-day wait required after primary vaccination \- Parasite treatment (UK only): $30-150
+*Additional costs may include (if required by destination country):* 
+- Primary rabies vaccine (if needed): $45 (dogs) or $55-98 (cats) 
+- 21-day wait required after primary vaccination 
+- Parasite treatment (UK only): $30-150
 
 ---
 
@@ -791,11 +900,22 @@ Airlines may have requirements that are more strict than destination countries. 
 **Examples: Australia, New Zealand, Japan, South Korea, China, Hawaii**  
 **Minimum Estimated Cost: $1,400**
 
-*Base requirements:* \- Research Fee: $50-100 \- Consultation: $95 \- Rabies Titer Test: $370 \- IHC \+ Exam: $405 \- USDA Endorsement with Testing: $230
+*Base requirements:* 
+- Research Fee: $50-100 
+- Consultation: $95 
+- Rabies Titer Test: $370 
+- IHC \+ Exam: $405 
+- USDA Endorsement with Testing: $230
 
-*Additional costs may include (if required by destination country):* \- Complex Destination Fee (Australia, New Zealand, Japan only): $165 \- Australia ID Endorsements (Australia only): \~$375 \- Additional testing/treatment for Australia and New Zealand: $250-1,000+ \- Progress exam fees: $65+
+*Additional costs may include (if required by destination country):* 
+- Complex Destination Fee (Australia, New Zealand, Japan only): $165 
+- Australia ID Endorsements (Australia only): \~$375 
+- Additional testing/treatment for Australia and New Zealand: $250-1,000+ 
+- Progress exam fees: $65+
 
-**Timeline:** \- **6+ months minimum** for Australia, New Zealand, and Japan \- **Shorter timeline possible** for other countries requiring rabies titer testing, but will vary based on requirements of that country. Most will just need a valid rabies titer test result at time of export, but we need to verify specific requirements (rabies titer takes 3-6 weeks after test is performed)
+**Timeline:** 
+- **6+ months minimum** for Australia, New Zealand, and Japan 
+- **Shorter timeline possible** for other countries requiring rabies titer testing, but will vary based on requirements of that country. Most will just need a valid rabies titer test result at time of export, but we need to verify specific requirements (rabies titer takes 3-6 weeks after test is performed)
 
 ---
 
@@ -803,11 +923,21 @@ Airlines may have requirements that are more strict than destination countries. 
 
 **Estimated Cost: $675-1,355**
 
-*If you already have CURV:* \- Research Fee: $50-100 \- Consultation: $95 \- IHC \+ Exam: $405 \- USDA Endorsement: $125 \- **Total: $675**
+*If you already have CURV:* 
+- Research Fee: $50-100 
+- Consultation: $95 
+- IHC \+ Exam: $405 
+- USDA Endorsement: $125 
+- **Total: $675**
 
-*If you need CURV:* \- Add CURV cost: $435 \- Add rabies vaccine if needed: $45 \- **Total: $1,155**
+*If you need CURV:* 
+- Add CURV cost: $435 
+- Add rabies vaccine if needed: $45 
+- **Total: $1,155**
 
-*Additional costs may include (if required by destination country):* \- Parasite treatment (may or may not be needed): $30-150 \- Other vaccines (may or may not be needed): $45-150
+*Additional costs may include (if required by destination country):* 
+- Parasite treatment (may or may not be needed): $30-150 
+- Other vaccines (may or may not be needed): $45-150
 
 ---
 
@@ -817,7 +947,8 @@ Airlines may have requirements that are more strict than destination countries. 
 
 * 📦 Crate purchase (typically $50-300)
 
-* 🐕 Costs shown are for ONE pet \- multiply for multiple pets
+* 🐕 Costs shown are for ONE pet 
+- multiply for multiple pets
 
 * ⚡ Urgent fees may apply if timeline is compressed
 
@@ -861,7 +992,8 @@ Airlines may have requirements that are more strict than destination countries. 
 
 ### **Community Support:**
 
-* **Facebook Group:** [U.S. CDC Dog Import Help (Lisa Carter)](https://www.facebook.com/groups/191336279727916/about) \- Community support and real experiences
+* **Facebook Group:** [U.S. CDC Dog Import Help (Lisa Carter)](https://www.facebook.com/groups/191336279727916/about) 
+- Community support and real experiences
 
 ---
 
