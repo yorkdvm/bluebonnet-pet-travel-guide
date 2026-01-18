@@ -15,11 +15,11 @@ var markdownFile string
 func main() {
 	port := flag.String("port", "8080", "port to listen on")
 	bind := flag.String("bind", "0.0.0.0", "address to bind to")
-	flag.StringVar(&markdownFile, "file", "public/travel_guide_2026.md", "markdown file to serve/update")
+	flag.StringVar(&markdownFile, "file", "docs/travel_guide_2026.md", "markdown file to serve/update")
 	flag.Parse()
 
 	http.HandleFunc("/api/markdown", handleMarkdown)
-	http.Handle("/", http.FileServer(http.Dir("public")))
+	http.Handle("/", http.FileServer(http.Dir("docs")))
 
 	addr := fmt.Sprintf("%s:%s", *bind, *port)
 	log.Printf("Server starting on %s (editing: %s)", addr, markdownFile)
