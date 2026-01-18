@@ -501,7 +501,95 @@ Once endorsed, we will: \- **Green banner countries:** Email you the endorsed di
 
   * [Screwworm countries](https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/dogs) (typically Central and South America)
 
-  * Requirement: Approved veterinarian in departure country must examine is is why getting CURV before departure (Section 2, Step 3\) is so important\!**
+  * Requirement: Approved veterinarian in departure country must examine dog and declare free of screwworm within 5 days of arrival to US
+
+  * Certificate signed by government approved veterinary official of country of origin
+
+---
+
+### **Section 3B: US-Vaccinated Dogs from High-Risk Countries (Easy Return)**
+
+**Applies if:** You got CURV before departure (see Section 2, Step 3\)
+
+#### *Why This Is Easy:*
+
+✅ Enter at any port  
+✅ No facility, no titer test, no quarantine  
+✅ Minimal cost
+
+#### *Requirements:*
+
+All requirements from Section 3A apply, PLUS:
+
+**Document 2:** CURV (Certification of US-Issued Rabies Vaccination) obtained before you left the US and the current US rabies vaccine has not yet expired (foreign vaccinations don’t count).
+
+#### *Arrival Process:*
+
+Present documents at customs → Clear normally → Go home
+
+#### *What If?*
+
+**Old export certificate instead of CURV?** \- Valid if issued on/before July 31, 2025 AND includes dog’s age, microchip, and US rabies vaccination info \- May cause confusion with airlines \- having CURV is clearer
+
+**US rabies vaccination expires while abroad?** \- Dog becomes “foreign-vaccinated” → Must follow Section 3C ($2,000-7,000+) \- **Avoid this by getting 3-year booster before extended travel**
+
+**Lost CURV?** \- Contact our hospital for replacement copy if CURV done by Bluebonnet
+
+---
+
+### **Section 3C: Foreign-Vaccinated Dogs from High-Risk Countries (Complex Process)**
+
+**Applies if:** Dog lacks CURV (Certification of US-Issued Rabies Vaccination) or US rabies vaccination expired abroad
+
+**This is expensive/complex. Avoid by getting a CURV before departure (Section 2, Step 3).**
+
+#### *Process Summary:*
+
+* **MUST Start 60-90 days before US entry**
+
+* Requires foreign vet certification with government endorsement
+
+* Requires CDC-approved rabies titer test (to avoid quarantine)
+
+* Must have advance reservation at CDC-registered facility
+
+* Dog examined and revaccinated at facility upon arrival
+
+* Usually 1-night stay; longer if weekend arrival
+
+* **Costs Without Quarantine:** $2,000-3,000+
+
+* **Costs With 28-day Quarantine:** $6,000-7,000+
+
+#### *Entry Points (ONLY These 6):*
+
+* **New York JFK** \- The ARK Pet Oasis
+
+* **Philadelphia PHL** \- Gateway Animal Care Center
+
+* **Washington IAD** \- Pender Pet Retreat
+
+* **Atlanta ATL** \- Dandie Scottie Kennel
+
+* **Miami MIA** \- Pet Limo
+
+* **Los Angeles LAX** \- Kennel Club LAX or Rue’s Kennels
+
+**No land borders. No other airports. No domestic connections until released.**
+
+For complete details on this process: [CDC Foreign-Vaccinated Dogs Guide](https://www.cdc.gov/importation/dogs/foreign-vaccinated-high-risk-countries.html)
+
+#### *Common Mistakes:*
+
+* No facility reservation \= denied entry, dog returned
+
+* Starting too late
+
+* Booking flight before facility confirmation
+
+* Not allowing proper waiting periods
+
+**Again: This is why getting CURV before departure (Section 2, Step 3\) is so important\!**
 
 ---
 
@@ -595,7 +683,57 @@ Airlines may have requirements that are more strict than destination countries. 
 
 **A:** No. Must be obtained before departure (as of July 31, 2025). Schedule your appointments with us early to ensure this is completed.
 
-### rch Fee \- Existing Clients | $50 | Non-refundable once research begins |
+### **Q: My dog’s US rabies vaccination expires while abroad. What happens?**
+
+**A:** Dog becomes foreign-vaccinated → Section 3C process ($2,000-7,000+). Get 3-year booster before extended travel.
+
+### **Q: Do I need both IHC AND CURV?**
+
+**A:** Possibly. IHC \= enter foreign country. CURV \= return to US from high-risk country. You need IHC if destination requires it. You need CURV if going to high-risk country and returning to US.
+
+### **Q: Can puppies under 6 months enter the US?**
+
+**A:** No exceptions for any dogs from high-risk countries or returning from high-risk countries.
+
+### **Q: Can I drive across from Canada/Mexico?**
+
+**A:** Yes if coming from low-risk country. No if foreign-vaccinated from high-risk country (must fly to facility airport).
+
+### **Q: Do cats need CURV?**
+
+**A:** No. CURV is for dogs only. Cats have minimal CDC import requirements.
+
+### **Q: What about European Union or England travel?**
+
+**A:** EU and England require minimum 21-day wait after primary rabies vaccination. Plan accordingly and schedule early.
+
+### **Q: What about Australia, New Zealand, or Japan?**
+
+**A:** These require 6+ months preparation. Schedule research consultation with us immediately. Do not book travel before consulting with us.
+
+### **Q: What temperatures are safe for pets flying cargo?**
+
+**A:** Airlines typically only fly cargo pets when temperatures are 45-85°F at both departure and arrival cities. Plan travel dates and plane departure/arrival locations accordingly.
+
+### **Q: Do I need to check airline requirements?**
+
+**A:** Yes. Airlines may have requirements stricter than the destination country. It is your responsibility to check and inform us of any additional airline requirements.
+
+### **Q: My departure date is coming up soon and my health certificate hasn’t been endorsed yet. Should I be worried?**
+
+**A:** We understand your concern\! Once we submit your IHC to USDA for endorsement, the timing is beyond our control. Most endorsements are completed within a few days, but sometimes endorsement occurs just prior to your travel date. We do our best to ensure your pet can travel on time. In rare cases (such as high USDA workload during holiday seasons), endorsement may be delayed, potentially requiring another visit and additional fees. This is why we recommend starting the process 2-6+ months before departure and avoiding peak holiday travel times when possible.
+
+---
+
+## **Section 7: Summary of Costs**
+
+### **Bluebonnet Services Cost Table**
+
+| Service | Cost | Notes |
+| :---- | ----- | :---- |
+| **RESEARCH & CONSULTATION** |  |  |
+| Research Fee \- New Clients | $100 | Non-refundable once research begins |
+| Research Fee \- Existing Clients | $50 | Non-refundable once research begins |
 | Research Fee \- Previous Pet Travel | $0 | Same pet & country |
 | IHC Consult/Exam | $95 | Required in person appointment with pet |
 | **VACCINATIONS (IF NEEDED)** |  |  |
@@ -653,7 +791,67 @@ Airlines may have requirements that are more strict than destination countries. 
 **Examples: Australia, New Zealand, Japan, South Korea, China, Hawaii**  
 **Minimum Estimated Cost: $1,400**
 
-*Base requirements:* \- Research Fee: $50-100 \- Consultation: $95 \- Rabies Titer Test: $370 \- IHC \+ Exam: $405 \- USDA En [https://www.aphis.usda.gov/pet-travel/us-to-another-country-export](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export)
+*Base requirements:* \- Research Fee: $50-100 \- Consultation: $95 \- Rabies Titer Test: $370 \- IHC \+ Exam: $405 \- USDA Endorsement with Testing: $230
+
+*Additional costs may include (if required by destination country):* \- Complex Destination Fee (Australia, New Zealand, Japan only): $165 \- Australia ID Endorsements (Australia only): \~$375 \- Additional testing/treatment for Australia and New Zealand: $250-1,000+ \- Progress exam fees: $65+
+
+**Timeline:** \- **6+ months minimum** for Australia, New Zealand, and Japan \- **Shorter timeline possible** for other countries requiring rabies titer testing, but will vary based on requirements of that country. Most will just need a valid rabies titer test result at time of export, but we need to verify specific requirements (rabies titer takes 3-6 weeks after test is performed)
+
+---
+
+#### *Round Trip to High-Risk Country (Dogs with CURV)*
+
+**Estimated Cost: $675-1,355**
+
+*If you already have CURV:* \- Research Fee: $50-100 \- Consultation: $95 \- IHC \+ Exam: $405 \- USDA Endorsement: $125 \- **Total: $675**
+
+*If you need CURV:* \- Add CURV cost: $435 \- Add rabies vaccine if needed: $45 \- **Total: $1,155**
+
+*Additional costs may include (if required by destination country):* \- Parasite treatment (may or may not be needed): $30-150 \- Other vaccines (may or may not be needed): $45-150
+
+---
+
+### **Important Notes NOT Included in Above Estimates:**
+
+* ✈️ Airline pet fees (cargo significantly more than in-cabin or excess baggage)
+
+* 📦 Crate purchase (typically $50-300)
+
+* 🐕 Costs shown are for ONE pet \- multiply for multiple pets
+
+* ⚡ Urgent fees may apply if timeline is compressed
+
+* 📄 Import permits may be needed if required by destination
+
+* 🌍 Foreign veterinary fees for return to US may apply
+
+* 🚚 Pet travel company fees (if you hire someone to help transport your pet)
+
+**These are estimates.** Your actual costs will depend on your specific destination, pet’s vaccination status, timeline, and any complications that arise.
+
+---
+
+## **Section 8: Key Resources & Links**
+
+### **CDC (Centers for Disease Control):**
+
+* **Main Dog Import Page:** [https://www.cdc.gov/importation/dogs/index.html](https://www.cdc.gov/importation/dogs/index.html)
+
+* **Dog Import Form:** [https://www.cdc.gov/importation/dogs/dog-import-form-instructions.html](https://www.cdc.gov/importation/dogs/dog-import-form-instructions.html)
+
+* **High-Risk Countries List:** [https://www.cdc.gov/importation/dogs/high-risk-countries.html](https://www.cdc.gov/importation/dogs/high-risk-countries.html)
+
+* **Foreign-Vaccinated Dogs Process:** [https://www.cdc.gov/importation/dogs/foreign-vaccinated-high-risk-countries.html](https://www.cdc.gov/importation/dogs/foreign-vaccinated-high-risk-countries.html)
+
+* **CDC-Approved Facilities:** [https://www.cdc.gov/importation/dogs/approved-care-facilities.html](https://www.cdc.gov/importation/dogs/approved-care-facilities.html)
+
+* **Contact:** (800) 232-4636 or cdcanimalimports@cdc.gov
+
+### **USDA (US Department of Agriculture):**
+
+* **Pet Travel Main Page:** [https://www.aphis.usda.gov/pet-travel](https://www.aphis.usda.gov/pet-travel)
+
+* **Export Requirements:** [https://www.aphis.usda.gov/pet-travel/us-to-another-country-export](https://www.aphis.usda.gov/pet-travel/us-to-another-country-export)
 
 * **Import Requirements:** [https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/dogs](https://www.aphis.usda.gov/pet-travel/another-country-to-us-import/dogs)
 
