@@ -22,11 +22,11 @@ Our hospital has USDA-accredited veterinarians who specialize in preparing dogs 
 
 **Quick Navigation:** Start by identifying your situation:
 
-- **Exporting from the US** → See Section 2
-- **Importing to the US** → See Section 3
-- **Common mistakes to avoid** → See Section 1
-- **Cost estimates** → See Section 6
-- **Key resources and links** → See Section 7
+- **Exporting from the US** &rarr; See Section 2
+- **Importing to the US** &rarr; See Section 3
+- **Common mistakes to avoid** &rarr; See Section 1
+- **Cost estimates** &rarr; See Section 6
+- **Key resources and links** &rarr; See Section 7
 
 ---
 
@@ -35,7 +35,7 @@ Our hospital has USDA-accredited veterinarians who specialize in preparing dogs 
 Understanding these key terms will help you navigate the pet travel process:
 
 ### Export vs. Import
-- **EXPORT** = Pet leaves the US → Goes to another country
+- **EXPORT** = Pet leaves the US &rarr; Goes to another country
 - **IMPORT** = Pet enters the US (includes US pets returning home)
 - **Round-trip travel** = Both processes apply
 
@@ -74,7 +74,7 @@ The **first** rabies vaccination given to a dog, OR the first vaccination after 
 **Avoid these costly and time-consuming mistakes by planning ahead:**
 
 ### 1. Not Having a Valid Rabies Vaccine Certificate
-**❌ THE #1 DOCUMENTATION ISSUE**
+**&#10060; THE #1 DOCUMENTATION ISSUE**
 
 **You may think you have a valid rabies vaccine certificate, but...**
 
@@ -83,22 +83,22 @@ Many certificates are missing critical information required for USDA endorsement
 #### Why This Happens:
 - Many veterinarians (especially if not USDA-accredited) are unaware of specific USDA export requirements
 - Certificates from other hospitals may lack required details
-- Obtaining missing information can take **days or weeks** – or may be **impossible**
+- Obtaining missing information can take **days or weeks** - or may be **impossible**
 - In many cases, a **repeat rabies vaccination** is necessary to ensure proper documentation
 
-#### ✅ Required Information on Rabies Certificates:
+#### &#9989; Required Information on Rabies Certificates:
 
 For USDA endorsement, your rabies certificate must include **ALL** of the following:
 
 **Pet Information:**
 - Name, weight, color, breed, age/date of birth
 - Microchip number (only if microchip was implanted before that vaccine)
-- ⚠️ **Important:** All information must match exactly on each certificate and medical record
+- &#9888; **Important:** All information must match exactly on each certificate and medical record
 
 **Vaccine Details:**
 - Manufacturer name and vaccine type (note: "Killed" as a type is not accepted)
 - Vaccination date and expiration date
-- Expiration date of the vaccine product itself (from vaccine vial) – required for CURV
+- Expiration date of the vaccine product itself (from vaccine vial) - required for CURV
 
 **Veterinarian Information:**
 - Printed name, signature, and date signed
@@ -111,23 +111,23 @@ For USDA endorsement, your rabies certificate must include **ALL** of the follow
 ---
 
 ### 2. Not Getting CURV Before Leaving (Dogs Only)
-**❌ THE MOST EXPENSIVE MISTAKE**
+**&#10060; THE MOST EXPENSIVE MISTAKE**
 
 If you're traveling to a **high-risk rabies country** and planning to return to the US, you **MUST** get a CURV (Certification of US-Issued Rabies Vaccination) **BEFORE** you leave.
 
 #### Without CURV:
-- ❌ Complex, expensive re-entry process
-- ❌ Cost: **$2,000-$7,000+**
-- ❌ Limited entry points (only 6 airports in entire US)
-- ❌ Mandatory facility stay (1+ nights)
-- ❌ Requires advance facility reservations
+- &#10060; Complex, expensive re-entry process
+- &#10060; Cost: **$2,000-$7,000+**
+- &#10060; Limited entry points (only 6 airports in entire US)
+- &#10060; Mandatory facility stay (1+ nights)
+- &#10060; Requires advance facility reservations
 
 #### With CURV:
-- ✅ Easy re-entry at any US port
-- ✅ No facility required
-- ✅ Cost: **$435**
+- &#9989; Easy re-entry at any US port
+- &#9989; No facility required
+- &#9989; Cost: **$435**
 
-**→ See Section 2, Step 3 and Section 3B for full details**
+**&rarr; See Section 2, Step 3 and Section 3B for full details**
 
 ---
 
@@ -138,7 +138,7 @@ If you're traveling to a **high-risk rabies country** and planning to return to 
 #### Complex Destinations (6+ months needed):
 - **Australia, New Zealand, Japan**
   - Requirements: Multiple blood tests, rabies titer testing, waiting periods, import permits
-  - **→ Schedule consultation immediately – do not book travel first**
+  - **&rarr; Schedule consultation immediately - do not book travel first**
 
 #### European Union & UK (minimum 21 days):
 - 21-day wait required after primary rabies vaccination
@@ -173,8 +173,8 @@ Airlines often have requirements that are **MORE STRICT** than destination count
 
 #### Common airline requirements:
 - Health certificate within 10 days of arrival (for cargo pets)
-- Temperature restrictions (typically 45-85°F at both departure and arrival)
-- Limited pet spaces – book well in advance
+- Temperature restrictions (typically 45-85&deg;F at both departure and arrival)
+- Limited pet spaces - book well in advance
 - Specific crate requirements
 - Airlines won't fly pets appearing sedated in cargo (safety reasons)
 
@@ -184,17 +184,17 @@ Airlines often have requirements that are **MORE STRICT** than destination count
 
 **Don't book flights or IHC appointments until:**
 
-- ☐ All destination country requirements are met
-- ☐ Required waiting periods have passed
-- ☐ You've consulted with our hospital
-- ☐ You've confirmed airline pet policies
-- ☐ Temperatures will be safe for pet travel (45-85°F)
+- &#9744; All destination country requirements are met
+- &#9744; Required waiting periods have passed
+- &#9744; You've consulted with our hospital
+- &#9744; You've confirmed airline pet policies
+- &#9744; Temperatures will be safe for pet travel (45-85&deg;F)
 
 ---
 
 ### 8. Not Planning for Temperature Restrictions
 
-If your pet is flying cargo, airlines typically only fly when temperatures are **45-85°F at BOTH departure and arrival locations**.
+If your pet is flying cargo, airlines typically only fly when temperatures are **45-85&deg;F at BOTH departure and arrival locations**.
 
 Plan travel dates and flight times accordingly to avoid cancellations.
 
@@ -219,12 +219,12 @@ The export process is the same for both dogs and cats, with a few key difference
 
 ### Understanding Green vs Orange Banner Countries
 
-#### Green Banner Country 🟢
+#### Green Banner Country 
 **Digital USDA endorsement accepted.** We can email you the endorsed certificate once approved. No physical shipping needed.
 - **Examples:** Most South American countries, some Asian countries
 - **Cost savings:** No shipping fee
 
-#### Orange Banner Country 🟠
+#### Orange Banner Country 
 **Digital endorsement NOT accepted.** We must overnight ship your embossed USDA-endorsed health certificate once approved.
 - **Examples:** All European countries, United Kingdom
 - **Additional cost:** $75 overnight shipping fee
@@ -373,8 +373,8 @@ Check if your destination is [high-risk](https://www.cdc.gov/importation/dogs/hi
 #### What is CURV?
 - Official CDC document certifying your dog's US rabies vaccination
 - **Must be obtained BEFORE leaving the US** (cannot get after departure)
-- Allows easy re-entry from high-risk countries → See Section 3B
-- **Without it = expensive complex process** → See Section 3C ($2,000-7,000+)
+- Allows easy re-entry from high-risk countries &rarr; See Section 3B
+- **Without it = expensive complex process** &rarr; See Section 3C ($2,000-7,000+)
 
 #### Our hospital will:
 1. Examine dog, verify rabies vaccination and microchip
@@ -403,7 +403,7 @@ Check if your destination is [high-risk](https://www.cdc.gov/importation/dogs/hi
 
 **Almost all countries require an IHC.**
 
-#### ⚠️ REQUIRED: Pre-Health Certificate Travel Confirmation Form
+#### &#9888; REQUIRED: Pre-Health Certificate Travel Confirmation Form
 **Must be completed at least 7 days before your health certificate appointment**
 
 This form finalizes all travel logistics to be able to write your health certificate in a timely and appropriate manner. It includes:
@@ -448,20 +448,20 @@ This form finalizes all travel logistics to be able to write your health certifi
 **Applies to both dogs and cats**
 
 #### Confirm you have:
-- ☐ International Health Certificate physical copy
-- ☐ Most current rabies vaccine certificate (printed +/- digital)
-- ☐ **For DOGS going to high-risk countries:** CURV - Keep this safe for return trip!
-- ☐ Multiple copies of all documents (digital and/or printed)
-- ☐ Appropriate airline-approved crate
-- ☐ Import permit (if required by destination country)
-- ☐ Any medication your pet may need to travel with
-- ☐ Review Section 3 for your return requirements
+- &#9744; International Health Certificate physical copy
+- &#9744; Most current rabies vaccine certificate (printed +/- digital)
+- &#9744; **For DOGS going to high-risk countries:** CURV - Keep this safe for return trip!
+- &#9744; Multiple copies of all documents (digital and/or printed)
+- &#9744; Appropriate airline-approved crate
+- &#9744; Import permit (if required by destination country)
+- &#9744; Any medication your pet may need to travel with
+- &#9744; Review Section 3 for your return requirements
 
 #### Important Airline Requirements:
 - Confirm airline accepts pets and method (cabin/checked/cargo)
 - Airlines may have requirements more strict than the destination country - **it is the owner's responsibility** to check airline requirements and inform us of any additional needs
 - Most airlines require a health certificate within 10 days of arrival to destination if in cargo. This requirement MAY vary if in-cabin with you. Dog and cat requirements may also be different.
-- **For cargo pets:** Airlines typically only fly when temperatures are 45-85°F at BOTH departure and arrival locations for pet safety
+- **For cargo pets:** Airlines typically only fly when temperatures are 45-85&deg;F at BOTH departure and arrival locations for pet safety
 - Book well in advance - limited pet spaces available
 - Provide health certificate at check-in
 
@@ -480,10 +480,10 @@ This form finalizes all travel logistics to be able to write your health certifi
 **Applies if:** Dog has NOT been in any [high-risk country](https://www.cdc.gov/importation/dogs/high-risk-countries.html) in last 6 months
 
 #### Requirements:
-✅ 6+ months old  
-✅ Microchip is ISO-compliant with 15 digits (universal scanner)  
-✅ Appears healthy  
-✅ [CDC Dog Import Form](https://www.cdc.gov/importation/dogs/dog-import-form-instructions.html) completed online (for dogs only)
+&#9989; 6+ months old  
+&#9989; Microchip is ISO-compliant with 15 digits (universal scanner)  
+&#9989; Appears healthy  
+&#9989; [CDC Dog Import Form](https://www.cdc.gov/importation/dogs/dog-import-form-instructions.html) completed online (for dogs only)
 
 #### CDC Dog Import Form:
 - Complete at least 1 day before arrival (can be done further in advance)
@@ -508,9 +508,9 @@ This form finalizes all travel logistics to be able to write your health certifi
 **Applies if:** You got CURV before departure (see Section 2, Step 3)
 
 #### Why This Is Easy:
-✅ Enter at any port  
-✅ No facility, no titer test, no quarantine  
-✅ Minimal cost
+&#9989; Enter at any port  
+&#9989; No facility, no titer test, no quarantine  
+&#9989; Minimal cost
 
 #### Requirements:
 All requirements from Section 3A apply, PLUS:
@@ -518,7 +518,7 @@ All requirements from Section 3A apply, PLUS:
 **Document 2:** CURV (Certification of US-Issued Rabies Vaccination) obtained before you left the US and the current US rabies vaccine has not yet expired (foreign vaccinations don't count).
 
 #### Arrival Process:
-Present documents at customs → Clear normally → Go home
+Present documents at customs &rarr; Clear normally &rarr; Go home
 
 #### What If?
 
@@ -527,7 +527,7 @@ Present documents at customs → Clear normally → Go home
 - May cause confusion with airlines - having CURV is clearer
 
 **US rabies vaccination expires while abroad?**
-- Dog becomes "foreign-vaccinated" → Must follow Section 3C ($2,000-7,000+)
+- Dog becomes "foreign-vaccinated" &rarr; Must follow Section 3C ($2,000-7,000+)
 - **Avoid this by getting 3-year booster before extended travel**
 
 **Lost CURV?**
@@ -576,7 +576,7 @@ For complete details on this process: [CDC Foreign-Vaccinated Dogs Guide](https:
 ### Section 3D: Importing Cats (Very Simple)
 
 #### CDC Requirements:
-✅ Cat appears healthy
+&#9989; Cat appears healthy
 
 **That's it!** No forms, no vaccinations required by CDC for cats. Entry at any point is acceptable.
 
@@ -594,7 +594,7 @@ For complete details on this process: [CDC Foreign-Vaccinated Dogs Guide](https:
 **A:** No. Must be obtained before departure (as of July 31, 2025). Schedule your appointments with us early to ensure this is completed.
 
 ### Q: My dog's US rabies vaccination expires while abroad. What happens?
-**A:** Dog becomes foreign-vaccinated → Section 3C process ($2,000-7,000+). Get 3-year booster before extended travel.
+**A:** Dog becomes foreign-vaccinated &rarr; Section 3C process ($2,000-7,000+). Get 3-year booster before extended travel.
 
 ### Q: Do I need both IHC AND CURV?
 **A:** Possibly. IHC = enter foreign country. CURV = return to US from high-risk country. You need IHC if destination requires it. You need CURV if going to high-risk country and returning to US.
@@ -615,7 +615,7 @@ For complete details on this process: [CDC Foreign-Vaccinated Dogs Guide](https:
 **A:** These require 6+ months preparation. Schedule research consultation with us immediately. Do not book travel before consulting with us.
 
 ### Q: What temperatures are safe for pets flying cargo?
-**A:** Airlines typically only fly cargo pets when temperatures are 45-85°F at both departure and arrival cities. Plan travel dates and plane departure/arrival locations accordingly.
+**A:** Airlines typically only fly cargo pets when temperatures are 45-85&deg;F at both departure and arrival cities. Plan travel dates and plane departure/arrival locations accordingly.
 
 ### Q: Do I need to check airline requirements?
 **A:** Yes. Airlines may have requirements stricter than the destination country. It is your responsibility to check and inform us of any additional airline requirements.
@@ -627,29 +627,29 @@ For complete details on this process: [CDC Foreign-Vaccinated Dogs Guide](https:
 Use this checklist to ensure you have all required documentation:
 
 ### Before Consultation:
-- ☐ Research fee paid
-- ☐ All rabies vaccine certificates gathered
-- ☐ Microchip documentation
-- ☐ Complete veterinary records
-- ☐ Travel dates estimated
-- ☐ Airline researched
+- &#9744; Research fee paid
+- &#9744; All rabies vaccine certificates gathered
+- &#9744; Microchip documentation
+- &#9744; Complete veterinary records
+- &#9744; Travel dates estimated
+- &#9744; Airline researched
 
 ### Before IHC Appointment:
-- ☐ Consultation completed (or urgent fee paid)
-- ☐ All vaccinations current
-- ☐ Rabies titer completed (if required)
-- ☐ Pre-Health Certificate form submitted (7+ days before)
-- ☐ Airline requirements confirmed
-- ☐ Temperature forecast checked
+- &#9744; Consultation completed (or urgent fee paid)
+- &#9744; All vaccinations current
+- &#9744; Rabies titer completed (if required)
+- &#9744; Pre-Health Certificate form submitted (7+ days before)
+- &#9744; Airline requirements confirmed
+- &#9744; Temperature forecast checked
 
 ### Before Departure:
-- ☐ International Health Certificate received
-- ☐ CURV received (dogs to high-risk countries)
-- ☐ Rabies certificate copies (multiple)
-- ☐ Digital copies of all documents
-- ☐ Airline-approved crate
-- ☐ Import permit (if required)
-- ☐ Medications for travel
+- &#9744; International Health Certificate received
+- &#9744; CURV received (dogs to high-risk countries)
+- &#9744; Rabies certificate copies (multiple)
+- &#9744; Digital copies of all documents
+- &#9744; Airline-approved crate
+- &#9744; Import permit (if required)
+- &#9744; Medications for travel
 
 ---
 
@@ -694,7 +694,7 @@ Use this checklist to ensure you have all required documentation:
 
 ### Estimated Total Costs by Region
 
-#### 🟢 South America (Green Banner - Most Countries)
+####  South America (Green Banner - Most Countries)
 **Minimum Estimated Cost: $775-925**
 
 *Base requirements:*
@@ -712,7 +712,7 @@ Use this checklist to ensure you have all required documentation:
 
 ---
 
-#### 🟠 Europe / UK (Orange Banner)
+####  Europe / UK (Orange Banner)
 **Minimum Estimated Cost: $825-920**
 
 *Base requirements:*
@@ -729,7 +729,7 @@ Use this checklist to ensure you have all required documentation:
 
 ---
 
-#### 🔴 Complex Destinations: Australia / New Zealand / Japan
+####  Complex Destinations: Australia / New Zealand / Japan
 **Minimum Estimated Cost: $2,500+**
 
 *Base requirements:*
@@ -769,13 +769,13 @@ Use this checklist to ensure you have all required documentation:
 
 ### Important Notes NOT Included in Above Estimates:
 
-- ✈️ Airline pet fees (cargo significantly more than in-cabin or excess baggage)
-- 📦 Crate purchase (typically $50-300)
-- 🐕 Costs shown are for ONE pet - multiply for multiple pets
-- ⚡ Urgent fees may apply if timeline is compressed
-- 📄 Import permits may be needed if required by destination
-- 🌍 Foreign veterinary fees for return to US may apply
-- 🚚 Pet travel company fees (if you hire someone to help transport your pet)
+-  Airline pet fees (cargo significantly more than in-cabin or excess baggage)
+-  Crate purchase (typically $50-300)
+-  Costs shown are for ONE pet - multiply for multiple pets
+-  Urgent fees may apply if timeline is compressed
+-  Import permits may be needed if required by destination
+-  Foreign veterinary fees for return to US may apply
+-  Pet travel company fees (if you hire someone to help transport your pet)
 
 **These are estimates.** Your actual costs will depend on your specific destination, pet's vaccination status, timeline, and any complications that arise.
 
