@@ -22,21 +22,21 @@ Our hospital has USDA-accredited veterinarians who specialize in preparing dogs 
 
 **Quick Navigation:** Start by identifying your situation:
 
-* **Exporting from the US** → See Section 2
+* **Exporting from the US** → [Section 2](#section-2)
 
-* **Importing to the US** → See Section 3
+* **Importing to the US** → [Section 3](#section-3)
 
-* **Common mistakes to avoid** → See Section 1
+* **Common mistakes to avoid** → [Section 1](#section-1)
 
-* **Rabies certificate requirements** → See Section 4
+* **Rabies certificate requirements** → [Section 4](#section-4)
 
-* **Airline requirements** → See Section 5
+* **Airline requirements** → [Section 5](#section-5)
 
-* **Frequently Asked Questions** → See Section 6
+* **Frequently Asked Questions** → [Section 6](#section-6)
 
-* **Cost estimates** → See Section 7
+* **Cost estimates** → [Section 7](#section-7)
 
-* **Key resources and links** → See Section 8
+* **Key resources and links** → [Section 8](#section-8)
 
 ---
 
@@ -60,7 +60,7 @@ Also called an export health certificate. This is the official document required
 
 ### [**CURV (Certification of US-Issued Rabies Vaccination)**](https://www.cdc.gov/importation/dogs/index.html)
 
-Official CDC document certifying your dog has a valid US rabies vaccination. Required for easy re-entry from [high-risk rabies countries](https://www.cdc.gov/importation/dogs/high-risk-countries.html). **For dogs only.** See Section 3B for details.
+Official CDC document certifying your dog has a valid US rabies vaccination. Required for easy re-entry from [high-risk rabies countries](https://www.cdc.gov/importation/dogs/high-risk-countries.html). **For dogs only.** [See Section 3B](#section-3b) for details.
 
 ### [**USDA Endorsement**](https://vehcs.aphis.usda.gov/)
 
@@ -96,6 +96,7 @@ The **first** rabies vaccination given to a dog, OR the first vaccination after 
 
 ---
 
+<a id="section-1"></a>
 ## **Section 1: Common Mistakes to Avoid**
 
 **Avoid these costly and time-consuming mistakes by planning ahead:**
@@ -118,7 +119,7 @@ Many certificates are missing critical information required for USDA endorsement
 
 * In many cases, a **repeat rabies vaccination may be needed** to ensure proper documentation
 
-**→ See [Section 4: Required Information on Rabies Certificates](#bookmark=id.1gi1sx2jh9d1) for complete details on what must be included.**
+**→ See [Section 4: Required Information on Rabies Certificates](#section-4) for complete details on what must be included.**
 
 ---
 
@@ -156,7 +157,7 @@ If you’re traveling to a [**high-risk rabies country**](https://www.cdc.gov/im
 
 **Solution for Extended Travel:** Get a **3-year rabies booster if your pet qualifies** before departure so your CURV stays valid longer.
 
-**→ See [Section 2, Step 3](#bookmark=id.rvxcjeyloyu1) and [Section 3B](#bookmark=id.gcy8ly1sh04i) for full details**
+**→ See [Section 2, Step 3](#section-2-step-3) and [Section 3B](#section-3b) for full details**
 
 ---
 
@@ -190,7 +191,7 @@ If you’re traveling to a [**high-risk rabies country**](https://www.cdc.gov/im
 
 Airlines may have requirements that are more strict than destination countries (typically a 10-day travel window requirement for a health certificate or parasite treatment needed). It’s **your responsibility** to verify and inform us of any additional requirements.
 
-**→ See [Section 5: Airline Requirements](#bookmark=id.f0kyea7ge43u) for complete details**
+**→ See [Section 5: Airline Requirements](#section-5) for complete details**
 
 ### **5\. Booking Travel Before Meeting All Requirements**
 
@@ -208,6 +209,7 @@ Airlines may have requirements that are more strict than destination countries (
 
 ---
 
+<a id="section-2"></a>
 ## **Section 2: Exporting from the US**
 
 Our hospital is USDA-accredited and can complete all necessary export documentation for both dogs and cats. We submit all IHCs and CURVs electronically to VEHCS for endorsement by the USDA.
@@ -396,6 +398,7 @@ These vaccines are also generally recommended based on individual pet’s lifest
 
 ---
 
+<a id="section-2-step-3"></a>
 ### **Step 3: Certification of US Issued Rabies Vaccination (CURV)**
 
 **DOGS ONLY** (Cats don’t need one)
@@ -419,9 +422,9 @@ Check if your destination is a [high-risk rabies country](https://www.cdc.gov/im
 
 * **Must be obtained BEFORE leaving the US** (cannot get after departure)
 
-* Allows easy re-entry from high-risk countries → See Section 3B
+* Allows easy re-entry from high-risk countries → [See Section 3B](#section-3b)
 
-* **Without it \= expensive complex process** → See Section 3C ($2,000-7,000+)
+* **Without it \= expensive complex process** → [See Section 3C](#section-3c) ($2,000-7,000+)
 
 #### *Our hospital will:*
 
@@ -516,20 +519,22 @@ Once endorsed, we will:
 
 * ☐ Any medication your pet may need to travel with
 
-* ☐ Review Section 3 for your return requirements
+* ☐ Review [Section 3](#section-3) for your return requirements
 
-* ☐ Review [Airline Requirements (Section 5\)](#bookmark=id.f0kyea7ge43u)
+* ☐ Review [Airline Requirements (Section 5)](#section-5)
 
 **Departure day:** Bring all original documents, arrive early
 
 ---
 
+<a id="section-3"></a>
 ## **Section 3: Importing Dogs & Cats to the US**
 
 **Important:** US pets returning home must meet the same requirements as first-time imports.
 
 ---
 
+<a id="section-3a"></a>
 ### **Section 3A: Dogs from Low-Risk Countries Only**
 
 **Applies if:** Dog has NOT been in any [high-risk country](https://www.cdc.gov/importation/dogs/high-risk-countries.html) in last 6 months
@@ -575,9 +580,10 @@ Once endorsed, we will:
 
 ---
 
+<a id="section-3b"></a>
 ### **Section 3B: US-Vaccinated Dogs from High-Risk Countries (Easy Return)**
 
-**Applies if:** You got CURV before departure (see Section 2, Step 3\)
+**Applies if:** You got CURV before departure ([see Section 2, Step 3](#section-2-step-3))
 
 ---
 
@@ -591,7 +597,7 @@ Once endorsed, we will:
 
 *Requirements:*
 
-All requirements from Section 3A apply, PLUS:
+All requirements from [Section 3A](#section-3a) apply, PLUS:
 
 **Document 2:** CURV (Certification of US-Issued Rabies Vaccination) obtained before you left the US and the current US rabies vaccine has not yet expired (foreign vaccinations don’t count).
 
@@ -611,7 +617,7 @@ Present documents at customs → Clear normally → Go home
 - having CURV is clearer
 
 **US rabies vaccination expires while abroad?** 
-- Dog becomes “foreign-vaccinated” → Must follow Section 3C ($2,000-7,000+) 
+- Dog becomes "foreign-vaccinated" → Must follow [Section 3C](#section-3c) ($2,000-7,000+) 
 - **Avoid this by getting 3-year booster before extended travel**
 
 **Lost CURV?** 
@@ -619,11 +625,12 @@ Present documents at customs → Clear normally → Go home
 
 ---
 
+<a id="section-3c"></a>
 ### **Section 3C: Foreign-Vaccinated Dogs from High-Risk Countries (Complex Process)**
 
 **Applies if:** Dog lacks CURV (Certification of US-Issued Rabies Vaccination) or US rabies vaccination expired abroad
 
-**This is expensive/complex. Avoid by getting a CURV before departure (Section 2, Step 3).**
+**This is expensive/complex. Avoid by getting a CURV before departure ([Section 2, Step 3](#section-2-step-3)).**
 
 ---
 
@@ -677,10 +684,11 @@ For complete details on this process: [CDC Foreign-Vaccinated Dogs Guide](https:
 
 * Not allowing proper waiting periods
 
-**Again: This is why getting CURV before departure (Section 2, Step 3\) is so important\!**
+**Again: This is why getting CURV before departure ([Section 2, Step 3](#section-2-step-3)) is so important\!**
 
 ---
 
+<a id="section-3d"></a>
 ### **Section 3D: Importing Cats (Very Simple)**
 
 
@@ -705,6 +713,7 @@ For complete details on this process: [CDC Foreign-Vaccinated Dogs Guide](https:
 
 ---
 
+<a id="section-4"></a>
 ## **Section 4: Required Information on Rabies Certificates**
 
 For USDA endorsement of International Health Certificates or CURV forms, any rabies vaccine certificate must include **ALL** of the following:
@@ -749,6 +758,7 @@ For USDA endorsement of International Health Certificates or CURV forms, any rab
 
 ---
 
+<a id="section-5"></a>
 ## **Section 5: Airline Requirements**
 
 Airlines may have requirements that are more strict than destination countries. It’s **your responsibility** to verify and inform us of any additional requirements.
@@ -788,6 +798,7 @@ Airlines may have requirements more strict than the destination country. Always 
 
 ---
 
+<a id="section-6"></a>
 ## **Section 6: Common Questions (FAQ)**
 
 ### **Q: Can I get CURV after my dog left the US?**
@@ -796,7 +807,7 @@ Airlines may have requirements more strict than the destination country. Always 
 
 ### **Q: My dog’s US rabies vaccination expires while abroad. What happens?**
 
-**A:** Dog becomes foreign-vaccinated → Section 3C process ($2,000-7,000+). Get 3-year booster before extended travel.
+**A:** Dog becomes foreign-vaccinated → [Section 3C](#section-3c) process ($2,000-7,000+). Get 3-year booster before extended travel.
 
 ### **Q: Do I need both IHC AND CURV?**
 
@@ -836,6 +847,7 @@ Airlines may have requirements more strict than the destination country. Always 
 
 ---
 
+<a id="section-7"></a>
 ## **Section 7: Summary of Costs**
 
 ### **Bluebonnet Services Cost Table**
@@ -982,6 +994,7 @@ Airlines may have requirements more strict than the destination country. Always 
 
 ---
 
+<a id="section-8"></a>
 ## **Section 8: Key Resources & Links**
 
 ### **CDC (Centers for Disease Control):**

@@ -25,9 +25,17 @@ function convertToCollapsible(container) {
         }
     }
 
+    let pendingAnchorId = null;
+
     for (const el of elements) {
         const tagName = el.tagName.toLowerCase();
         const headingMatch = tagName.match(/^h([2-4])$/);
+
+        // Capture anchor IDs that precede headings
+        if (tagName === 'a' && el.id && !el.href) {
+            pendingAnchorId = el.id;
+            continue;
+        }
 
         if (headingMatch) {
             const level = parseInt(headingMatch[1]);
@@ -46,6 +54,12 @@ function convertToCollapsible(container) {
             // Create new collapsible section
             const details = document.createElement('details');
             details.className = `level-${level}`;
+
+            // Apply pending anchor ID to the details element
+            if (pendingAnchorId) {
+                details.id = pendingAnchorId;
+                pendingAnchorId = null;
+            }
 
             const summary = document.createElement('summary');
             summary.textContent = el.textContent;
@@ -137,7 +151,39 @@ window.addEventListener('afterprint', () => {
     });
 });
 
-document.addEventListener('DOMContentLoaded', () => {
-    loadMarkdown();
+function expandToAnchor(hash) {
+    if (!hash) return;
+    const target = document.querySelector(hash);
+    if (!target) return;
+
+    // Expand the target if it's a details element
+    if (target.tagName === 'DETAILS') {
+        target.open = true;
+    }
+
+    // Expand all parent details elements
+    let el = target.parentElement;
+    while (el) {
+        if (el.tagName === 'DETAILS') {
+            el.open = true;
+        }
+        el = el.parentElement;
+    }
+
+    // Scroll into view
+    target.scrollIntoView({ behavior: 'smooth' });
+}
+
+window.addEventListener('hashchange', () => {
+    expandToAnchor(window.location.hash);
+});
+
+document.addEventListener('DOMContentLoaded', async () => {
+    await loadMarkdown();
     setupToolbar();
+
+    // Handle initial hash on page load
+    if (window.location.hash) {
+        expandToAnchor(window.location.hash);
+    }
 });
