@@ -608,7 +608,28 @@ All requirements from [Section 3A](#section-3a) apply, PLUS:
 
 **Document 2:** CURV (Certification of US-Issued Rabies Vaccination) obtained before you left the US and the current US rabies vaccine has not yet expired (foreign vaccinations don’t count).
 
-[See Section 2 / Step 3](#curv-requirements)
+<a id="curv-requirements2"></a>
+*Requirements for CURV to be submitted by Bluebonnet:*
+
+* Current US rabies vaccination
+
+* Dogs MUST receive their initial/primary rabies vaccination on or after 12 weeks (84 days) of age.
+
+* Microchip placed before/same time as primary rabies vaccination
+
+* If primary vaccination: 28-day wait before CURV submitted to USDA for endorsement
+
+* All rabies vaccine certificates must be uploaded that were given in the prior 3 years in the US.  All rabies vaccine certificates must match the pet’s medical record and other information about the pet.  If they do not match, it will not be endorsed by the USDA office.
+
+* Vaccines will be considered valid for a period of 1 or 3 years depending on manufacturer guidelines. Booster vaccines are considered immediately valid in dogs over 15 months of age provided the dog has received at least 1 previous rabies vaccine administered on or after 12 weeks of age.  There cannot be a lapse in coverage between vaccines or a primary vaccine must be given.
+
+* You fill out appropriate travel information (we have a form for you to submit), so that we have the required information to be able to submit this form for USDA endorsement
+
+**Cost:** $435 (CURV Submission is $310, USDA endorsement is $125)
+
+**Timeline:** Allow 2-4 weeks before departure; 28-day wait if primary vaccination
+
+**Pro Tip:** For extended travel, get 3-year rabies booster if appropriate so CURV stays valid longer
 
 ---
 
