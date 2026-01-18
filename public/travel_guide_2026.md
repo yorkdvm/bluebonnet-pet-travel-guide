@@ -111,13 +111,13 @@ Many certificates are missing critical information required for USDA endorsement
 
 #### *Why This Happens:*
 
-* Many veterinarians (especially if not USDA-accredited) are unaware of specific USDA export requirements
+* Some veterinarians (especially if not USDA-accredited) are unaware of specific USDA export requirements
 
 * Certificates from other hospitals may lack required details
 
 * Obtaining missing information can take **days or weeks** – or may be **impossible**
 
-* In many cases, a **repeat rabies vaccination may be needed** to ensure proper documentation
+* In some cases, a **repeat rabies vaccination may be needed** to ensure proper documentation
 
 **→ See [Section 4: Required Information on Rabies Certificates](#section-4) for complete details on what must be included.**
 
@@ -205,7 +205,7 @@ Airlines may have requirements that are more strict than destination countries (
 
 * ☐ You’ve confirmed airline pet policies
 
-* ☐ Temperatures will be safe for pet travel (45-85°F)
+* ☐ Temperatures will be safe for pet travel if traveling as excess baggage or cargo (45-85°F)
 
 ---
 
@@ -930,7 +930,7 @@ Airlines may have requirements more strict than the destination country. Always 
 #### *🔴 Complex Destinations with Rabies Titer Testing*
 
 **Examples: Australia, New Zealand, Japan, South Korea, China, Hawaii**  
-**Minimum Estimated Cost: $1,400**
+**Minimum Estimated Cost: $1,150**
 
 *Base requirements:* 
 - Research Fee: $50-100 
