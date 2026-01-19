@@ -210,6 +210,17 @@ document.addEventListener('DOMContentLoaded', async () => {
     await loadMarkdown();
     setupToolbar();
 
+    // Handle internal anchor links - expand sections before browser scrolls
+    document.getElementById('content').addEventListener('click', (e) => {
+        const link = e.target.closest('a[href^="#"]');
+        if (link) {
+            e.preventDefault();
+            const hash = link.getAttribute('href');
+            history.pushState(null, '', hash);
+            expandToAnchor(hash);
+        }
+    });
+
     // Handle initial hash on page load
     if (window.location.hash) {
         expandToAnchor(window.location.hash);
