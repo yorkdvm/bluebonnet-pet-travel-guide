@@ -919,8 +919,7 @@ Airlines may have requirements more strict than the destination country. Always 
 
 ### **Estimated Total Costs by Region**
 
-#### *🟢 South America (Green Banner 
-- Most Countries)*
+#### 🟢 South America (Most S. America Countries are Green Banner)*
 
 **Minimum Estimated Cost: $675**
 
